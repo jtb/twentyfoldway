@@ -1,8 +1,7 @@
 .ui-mobile [data-role=header],.ui-mobile [data-role=footer]{
 background-color: rgba(0, 89, 187, 0.71);
 color: beige;
-//text-shadow: 1px 1px 12px #000;
-font-size: 22px;
+//font-size: 22px;
 }
 img{
 width:100%;
@@ -20,5 +19,7 @@ color:black;
 // label { display: block; width: 50%; }
 
 .mycheckbox {display: inline-block; width: 100%; }
+//.ui-header {text-align: center; width: 100%; }
+//.ui-title {text-align: center; width: 100%; }
 
 .ui-checkbox {float: left; display: inline-block; width: 80%;}
